@@ -15,7 +15,7 @@ from email.header import decode_header
 from requests.api import get 
    
 root = tk.Tk()  
-root.geometry('1280x720')
+root.geometry('640x480')
   
 root.title('Email client')
 number1 = tk.StringVar(root)  
